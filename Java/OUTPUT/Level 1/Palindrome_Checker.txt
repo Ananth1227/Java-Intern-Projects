@@ -1,0 +1,11 @@
+PS D:\JAVA\Level1> javac palindrome.java
+PS D:\JAVA\Level1> java palindrome
+Enter a word or a phrase
+a)*^$%%^b^%$%^ba
+a)*^$%%^b^%$%^ba
+abba
+abba
+4
+abba
+The string  abba  is a  palindrome
+PS D:\JAVA\Level1> 

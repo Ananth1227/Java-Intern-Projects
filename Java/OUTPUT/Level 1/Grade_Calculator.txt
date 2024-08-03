@@ -1,0 +1,20 @@
+PS D:\JAVA\Level1> javac gcalc.java
+PS D:\JAVA\Level1> java gcalc
+Grade Calculator
+Enter the name of the Student
+Ananth
+Enter the Total number of subjects
+5
+Enter the mark of Subject 1
+90
+Enter the mark of Subject 2
+98
+Enter the mark of Subject 3
+90
+Enter the mark of Subject 4
+89
+Enter the mark of Subject 5
+90
+Student Name:Ananth
+And his Average Mark is 91.4
+PS D:\JAVA\Level1> 

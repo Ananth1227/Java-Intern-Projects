@@ -1,0 +1,135 @@
+PS D:\JAVA\Level2> javac tic.java
+PS D:\JAVA\Level2> java tic
+- - - 
+- - - 
+- - - 
+
+----------
+                 PLAYER 1 Turn
+Enter the Row
+1
+Enter the Column
+2
+- X - 
+- - -
+- - -
+
+----------
+                 PLAYER 2 Turn
+Enter the Row
+2
+Enter the Column
+3
+- X - 
+- - O
+- - -
+
+----------
+                 PLAYER 1 Turn
+Enter the Row
+2
+Enter the Column
+2
+- X - 
+- X O
+- - -
+
+----------
+                 PLAYER 2 Turn
+Enter the Row
+3
+Enter the Column
+2
+- X - 
+- X O
+- O -
+
+----------
+                 PLAYER 1 Turn
+Enter the Row
+1
+Enter the Column
+1
+X X - 
+- X O
+- O -
+
+----------
+                 PLAYER 2 Turn
+Enter the Row
+3
+Enter the Column
+3
+X X - 
+- X O
+- O O
+
+----------
+Enter the Row
+1
+Enter the Column
+3
+p1 is winnerchzl
+X X X
+- X O
+- O O
+
+----------
+PS D:\JAVA\Level2> java tic      
+- - - 
+- - -
+- - -
+
+----------
+                 PLAYER 1 Turn
+Enter the Row
+1
+Enter the Column
+3
+- - X 
+- - -
+- - -
+
+----------
+                 PLAYER 2 Turn
+Enter the Row
+2
+Enter the Column
+3
+- - X 
+- - O
+- - -
+
+----------
+                 PLAYER 1 Turn
+Enter the Row
+2
+Enter the Column
+2
+- - X 
+- X O
+- - -
+
+----------
+                 PLAYER 2 Turn
+Enter the Row
+3
+Enter the Column
+3
+- - X 
+- X O
+- - O
+
+----------
+                 PLAYER 1 Turn
+Enter the Row
+3
+Enter the Column
+1
+p1 is winnerd
+- - X
+- X O
+X - O
+
+----------
+PS D:\JAVA\Level2> 

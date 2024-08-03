@@ -1,0 +1,10 @@
+PS D:\JAVA\Level1> javac degree.java
+PS D:\JAVA\Level1> java degree
+Fahrenheit To Celsius
+Enter the unit
+fahrenheit 
+f
+Enter the value
+108
+Fahrenheit To Celsius is 42.22222222222222
+PS D:\JAVA\Level1> 

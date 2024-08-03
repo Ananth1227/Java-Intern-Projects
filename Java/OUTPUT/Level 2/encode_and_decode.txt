@@ -1,0 +1,23 @@
+PS D:\JAVA\Level2> javac encdec.java
+PS D:\JAVA\Level2> java encdec      
+Enter the mode
+1.Encryption
+2.Decryption
+3.Exit
+1
+Just move the files that you wanna encrypt/decrypt into this path(D:\JAVA\Level2\New folder)
+Enter the file name
+story.txt
+Encryption is done...
+Just track the path(D:\JAVA\Level2\New folder (2)\encrypted.txt) in your local files
+Enter the mode
+1.Encryption
+2.Decryption
+3.Exit
+2
+Decryption is done...
+Just track the path(D:\JAVA\Level2\New folder (2)\decrypted.txt) in your local files
+Enter the mode
+1.Encryption
+2.Decryption
+3.Exit

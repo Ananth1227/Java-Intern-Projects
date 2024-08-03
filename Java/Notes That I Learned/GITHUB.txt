@@ -1,0 +1,78 @@
+{
+to clean the terminal
+     ----> cls,clear
+{
+verbose (-v)_Additional detail
+very verbose(-vv)_ 
+                    (The -vv option in the git branch command stands for "very verbose." It provides detailed information about each branch, specifically including information about the upstream branch and how many commits each branch is ahead or behind its upstream branch.)
+branch(-b)
+all(-a)
+}
+
+
+{
+keywords:
+q(just press the q) - sometimes the terminal might be look like stucked, if it is we can use q to back to normal
+}
+
+
+GITHUB//
+cmd 
+git config --glabal user.name "gitusername"
+git config --glabal user.email "mai id"
+
+To check statu
+         -->"git status"
+Folder(must to initilize the (.git) into the folder) 
+1.---->when you clone to the folder
+         -->"git clone "link of repository""
+2.To initilize .git
+         --> "git init"
+basic steps
+-->add
+-->commit
+-->push
+
+1.
+---->"git add file.extension"(if 1 file)
+   ---->"git add .(dot)"  (if multiple)
+        -----selects every file in the folder-----
+
+2.
+.---->"git commit file.extension(if 1 file)      -m "msg""
+  -----"git commit  -m "msg" (if multiple files)"
+
+3.
+---->to push the local to the github
+         -->"git push origin "the folder of repos""
+---->to add the origin to the file
+         -->"git remote add origin "link of rep""
+---->to change origin
+         -->"git branch -m "ur wish""
+
+
+4.
+---->{To check branch name
+         -->"git branch"(current branch)
+---->To found all branch 
+         -->"git branch -a"}both sre similiar
+---->To switch to another branch
+         -->"git checkout "new_branch_name"""
+---->To do the merge of sub_branch to the main branch
+         -->"git merge "sub_branch_name"
+---->To create a new branch
+         -->"git branch "new_branch_name""
+     
+4.
+----> we can use it whenever  we need to pull the file into the local folder(comuter) from the repository(github).
+         --> "git pull"-->
+---->git pull from origin or other branch
+         -->"git pull origin main"
+
+5.----> To found how many remotes we have
+         -->"git remote -v"
+
+
+6.---->When you create a new branch and want to link it to a branch on the remote repository, you can set the upstream branch
+
+         -->"git branch --set-upstream-to=origin/<remote-branch> <local-branch>"
