@@ -8,7 +8,6 @@ public class degree
         System.out.println("Enter the unit");
         String uh=n.nextLine();
         char ch=uh.charAt(0);
-        System.out.println(ch);
         System.out.println("Enter the value");
         Double val=n.nextDouble();
         if(ch =='f' || ch =='F')
