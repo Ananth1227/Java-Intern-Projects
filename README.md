@@ -1,2 +1,1 @@
-Tic Tac Toe :) in java! 
-Have fun 
+Java Intern Projects
