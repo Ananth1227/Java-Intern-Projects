@@ -1,1 +1,1 @@
-Java Intern Projects
+Java.lang Projects and basic core concepts
