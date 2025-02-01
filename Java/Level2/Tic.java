@@ -213,11 +213,11 @@ public class tic
                 System.out.println("Enter the Column");
                 j=(sc.nextInt())-1;
                 mat[i][j]='O';
-                tie(mat);
                 chzl(mat);
                 cvtl(mat);
                 dig(mat);
                 dig1(mat);
+                tie(mat);
                 printarray(mat);
                 if(tic.p2==1)
                 {
